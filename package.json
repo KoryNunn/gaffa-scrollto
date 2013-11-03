@@ -1,0 +1,11 @@
+{
+  "name": "gaffa-scrollto",
+  "version": "0.0.0",
+  "description": "",
+  "main": "scrollTo.js",
+  "author": "Kory Nunn",
+  "license": "BSD",
+  "dependencies": {
+    "predator": "0.0.5"
+  }
+}
