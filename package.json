@@ -6,7 +6,6 @@
   "author": "Kory Nunn",
   "license": "BSD",
   "dependencies": {
-    "predator": "0.0.5",
-    "scroll-into-view": "0.0.1"
+    "scroll-into-view": "^1.0.0"
   }
 }
