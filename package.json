@@ -1,11 +1,24 @@
 {
   "name": "gaffa-scrollto",
   "version": "1.0.1",
-  "description": "",
+  "description": "gaffa-scrollto ============",
   "main": "scrollTo.js",
   "author": "Kory Nunn",
   "license": "BSD",
   "dependencies": {
     "scroll-into-view": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/gaffa-scrollto.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/KoryNunn/gaffa-scrollto/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/gaffa-scrollto#readme"
 }
